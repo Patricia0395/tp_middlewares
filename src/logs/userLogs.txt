@@ -1,0 +1,6 @@
+El usuario ingreso a la ruta /login
+El usuario ingreso a la ruta /admin?user=
+El usuario ingreso a la ruta /noEntry
+El usuario ingreso a la ruta /noEntry
+El usuario ingreso a la ruta /noEntry
+El usuario ingreso a la ruta /noEntry

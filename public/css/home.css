@@ -1,0 +1,37 @@
+.home{
+    background-image: url('/images/emilia-home.jpg');
+    background-size: 70%; /*define el tamaño de la imagen*/
+    background-repeat: no-repeat; /*como la imagen es ms chica se repite, por ende de esta forma saco la repeticion*/
+    background-position: right -75px; /*Cambia la posicion de la imagen*/
+}
+.home header{
+margin-left: 40px; /*margenes left(izquierdo)*/
+}
+.home header nav li{
+    line-height: 30px;
+}
+.home header nav ul a{
+    text-transform: uppercase;
+    color: gray;
+
+}
+.home header a{
+    color: black;
+}
+.home h2{
+    font-family: 'Work Sans', sans-serif;
+    text-transform: uppercase;
+    font-size: 40px;
+    margin-left: 40px;
+    font-weight: 400; /*espesor o grueso de la letra solo de la descargada en este caso o 400 0 */
+    line-height: 40px;/*interlineado*/
+    margin-top: 100px ; /*margen arriba*/
+    margin-bottom: 100px; /*margen abajo*/
+}
+.home h1{
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase; /*transformar el texto en mayúscula*/
+    font-size: 73.5px; /*tamaño del titulo*/
+    font-weight: 700;
+    background-color: rgba(255, 255, 255, 0.4);
+}
